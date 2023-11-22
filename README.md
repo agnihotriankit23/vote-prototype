@@ -14,4 +14,3 @@ Languages used
 1. React.js
 2. ether.js
 3. solidity
-4. hardhat
